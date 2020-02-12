@@ -1,0 +1,19 @@
+unique_ID,type,processing,type_processing,dilution,estimated cells/ul,average_cell_per_ul,stdev_cell_per_ul,replicates
+H3+.1,heat,PMA,heat.PMA,100,1,1.8,1.2,2
+H4+.1,heat,PMA,heat.PMA,1000,1.1,2.1,1.5,2
+H5+.1,heat,PMA,heat.PMA,10000,3,3,0,1
+H6+.1,heat,PMA,heat.PMA,100000,0.8,0.8,0,1
+H3-.2,heat,raw,heat.raw,100,40618.5,42238.3,2290.7,2
+H4-.1,heat,raw,heat.raw,1000,4586.9,4650.3,89.6,2
+H5-.1,heat,raw,heat.raw,10000,433.7,454.5,29.4,2
+H6-.1,heat,raw,heat.raw,100000,51.7,53.5,2.6,2
+L3+.1,live,PMA,live.PMA,100,11622.7,10756.7,1224.7,2
+L4+.1,live,PMA,live.PMA,1000,1258.6,1085.1,245.4,2
+L5+.2,live,PMA,live.PMA,10000,88.1,62.6,36.1,2
+L6+.1,live,PMA,live.PMA,100000,11.7,11.7,0,1
+L3-.1,live,raw,live.raw,100,10727.4,15784.6,7152,2
+L4-.1,live,raw,live.raw,1000,820.8,1171,495.3,2
+L5-.2,live,raw,live.raw,10000,75.4,77.9,3.6,2
+L6-.1,live,raw,live.raw,100000,9.9,11,1.5,2
+CFU.1,CFU,raw,live.CFU,1000,670,661.5,12,2
+CFU.3,CFU,raw,heat.CFU,100,1,1,0,2

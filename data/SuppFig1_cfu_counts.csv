@@ -1,0 +1,8 @@
+﻿unique_ID,type,processing,type_processing,dilution,estimated cells/ul,average_cell_per_ul,stdev_cell_per_ul,replicates
+CFU,CFU,raw,live.CFU,100,6615,6615,0,0
+CFU,CFU,raw,live.CFU,10000,66.15,66.15,0,0
+CFU,CFU,raw,live.CFU,100000,6.615,6.615,0,0
+CFU,CFU,raw,heat.CFU,100,1,1,0,0
+CFU,CFU,raw,heat.CFU,1000,1,1,0,0
+CFU,CFU,raw,heat.CFU,10000,1,1,0,0
+CFU,CFU,raw,heat.CFU,100000,1,1,0,0

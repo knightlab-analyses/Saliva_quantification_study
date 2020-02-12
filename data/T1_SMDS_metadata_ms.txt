@@ -1,0 +1,177 @@
+#SampleID	study_acronym	experiment_name	participant_id	saliva_weight_g	saliva_volume_mL_collected_in_5_min	saliva_flow_rate_mL_per_min	FC_cells_per_ul_r1	FC_cells_per_ul_r2	FC_avg_cells_per_ul	FC_avg_cells_5_min	processing	collection_time_stamp	gender	age	saliva_sample_ID	timepoint	mouthwash_regularly?	qPCR_median_16S_copies_per_2ul_DNA	alcohol_since_last_sample	misc-notes	food	food notes	drink notes	self_reported_min_brushing	floss_regularly?	toothbrush_type	percent_reads_aligning_to_chloroplast_seqeuneces
+A1.lyPMA	SMDS	daily dynamics	A	1.28	1.1	0.22	13268	12489	12879	14166350	PMA	5/1/18 9:15	male	26	A1	1	yes	5374744	none	none	no	none	none	3	yes	electric	0
+A2.lyPMA	SMDS	daily dynamics	A	1.41	1.1	0.22	9742	10925	10334	11366850	PMA	5/1/18 9:40	male	26	A2	2	yes	102428	none	none	no	none	none	3	yes	electric	0
+A3.lyPMA	SMDS	daily dynamics	A	2.1	1.9	0.38	1747	1723	1735	3296500	PMA	5/1/18 12:25	male	26	A3	3	yes	1228159	none	none	yes	donut	none	3	yes	electric	0
+A4.lyPMA	SMDS	daily dynamics	A	1.62	1.4	0.28	5606	5553	5580	7811300	PMA	5/1/18 13:40	male	26	A4	4	yes	62065	none	none	yes	burrito and salsa	none	3	yes	electric	0
+A5.lyPMA	SMDS	daily dynamics	A	1.64	1.2	0.24	6147	6242	6195	7433400	PMA	5/1/18 16:42	male	26	A5	5	yes	261920	none	none	no	none	none	3	yes	electric	0
+A6.lyPMA	SMDS	daily dynamics	A	1.7	1.4	0.28	3548	3770	3659	5122600	PMA	5/1/18 18:47	male	26	A6	6	yes	1486204	none	none	no	none	none	3	yes	electric	0
+A7.lyPMA	SMDS	daily dynamics	A	2.13	1.9	0.38	6461	6699	6580	12502000	PMA	5/1/18 21:00	male	26	A7	7	yes	909396	none	none	yes	"rice, beans, eggs, tomatoes"	coke	3	yes	electric	0
+A8.lyPMA	SMDS	daily dynamics	A	1.79	1.5	0.3	2355	2396	2376	3563250	PMA	5/1/18 23:15	male	26	A8	8	yes	1457417	none	none	no	none	none	3	yes	electric	0
+A9.lyPMA	SMDS	daily dynamics	A	2.85	2.7	0.54	546	513	530	1429650	PMA	5/1/18 23:35	male	26	A9	9	yes	323274	none	none	no	none	none	3	yes	electric	0
+B2.lyPMA	SMDS	daily dynamics	B	1.4	1.4	0.28	1580	1664	1622	2270800	PMA	5/2/18 7:40	female	6	B2	2	no	449612	none	none	no	none	none	3	yes	regular	0
+B3.lyPMA	SMDS	daily dynamics	B	4.57	4.5	0.9	2012	1908	1960	8820000	PMA	5/2/18 10:10	female	6	B3	3	no	501903	none	none	yes	"cereal, milk, berries"	none	3	yes	regular	0
+B4.lyPMA	SMDS	daily dynamics	B	2.49	2.3	0.46	2770	2662	2716	6246800	PMA	5/2/18 11:55	female	6	B4	4	no		none	cold medicine	no	none	none	3	yes	regular	0
+B5.lyPMA	SMDS	daily dynamics	B	-0.04	0.1	0.02	50064	53147	51606	5160550	PMA	5/2/18 13:05	female	6	B5	5	no	1852015	none	none	yes	"chicken soup, orange"	none	3	yes	regular	4.05E-05
+B6.lyPMA	SMDS	daily dynamics	B	4.31	4.1	0.82	21736	21295	21516	88213550	PMA	5/2/18 15:45	female	6	B6	6	no	3049726	none	cold medicine	yes	banana	none	3	yes	regular	0
+B7.lyPMA	SMDS	daily dynamics	B	2.77	2.6	0.52	1635	1699	1667	4334200	PMA	5/2/18 19:35	female	6	B7	7	no	196759	none	none	yes	"pineapple, chocolate chips, sprinkles, apple, peach"	none	3	yes	regular	0
+B8.lyPMA	SMDS	daily dynamics	B	0.46	0.4	0.08	1457	1334	1396	558200	PMA	5/2/18 21:30	female	6	B8	8	no	18124	none	none	yes	"mac&cheese, peas, carnitas, carrots, guacamole, flour tortilla"	milk	3	yes	regular	0.00321238
+B9.lyPMA	SMDS	daily dynamics	B	1.34	1.3	0.26	398	370	384	499200	PMA	5/2/18 21:40	female	6	B9	9	no	44525	none	none	no	none	none	3	yes	regular	0
+C1.lyPMA	SMDS	daily dynamics	C	4.54	4.4	0.88	1165	1389	1277	5618800	PMA	5/2/18 9:00	female	32	C1	1	no	3044487	none	none	no	none	none	5	yes	regular	0
+C2.lyPMA	SMDS	daily dynamics	C	2.98	3.5	0.7	389	353	371	1298500	PMA	5/2/18 10:10	female	32	C2	2	no	64103	none	breakfast first then brushed teeth	yes	breakfast	none	5	yes	regular	0
+C3.lyPMA	SMDS	daily dynamics	C	5	4.8	0.96	52	50	51	244800	PMA	5/2/18 11:30	female	32	C3	3	no	71329	none	none	no	none	tea	5	yes	regular	0
+C4.lyPMA	SMDS	daily dynamics	C	5.41	5	1	80	73	77	382500	PMA	5/2/18 14:30	female	32	C4	4	no	76845	none	none	yes	lunch	water	5	yes	regular	0.025735408
+C5.lyPMA	SMDS	daily dynamics	C	4.32	4.2	0.84	33	24	29	119700	PMA	5/2/18 16:30	female	32	C5	5	no	27895	none	none	yes	strawberries	water	5	yes	regular	0.000292364
+C6.lyPMA	SMDS	daily dynamics	C	3.09	3	0.6	1895	1803	1849	5547000	PMA	5/2/18 18:50	female	32	C6	6	no	1494365	none	1.5hr excercies	no	none	none	5	yes	regular	0
+C7.lyPMA	SMDS	daily dynamics	C	3.41	3.4	0.68	651	661	656	2230400	PMA	5/2/18 23:30	female	32	C7	7	no	124557	none	none	yes	dinner and pop corn	none	5	yes	regular	0
+C8.lyPMA	SMDS	daily dynamics	C	3.13	3	0.6	175	181	178	534000	PMA	5/2/18 0:05	female	32	C8	8	no	5355	none	none	no	none	none	5	yes	regular	0
+C9.lyPMA	SMDS	daily dynamics	C	2.52	2.5	0.5	307	277	292	730000	PMA	5/2/18 8:00	female	32	C9	9	no	406026	none	taken next morning!	no	none	none	5	yes	regular	0
+D1.lyPMA	SMDS	daily dynamics	D	2.11	2	0.4	3550	3084	3317	6634000	PMA	5/1/18 7:20	male	41	D1	1	no	3601358	none	none	no	none	none	2	no	electric	0
+D2.lyPMA	SMDS	daily dynamics	D	2.96	2.6	0.52					PMA	5/1/18 7:40	male	41	D2	2	no	294535	none	none	no	none	none	2	no	electric	0
+D3.lyPMA	SMDS	daily dynamics	D	3.72	2.5	0.5	1155	927	1041	2602500	PMA	5/1/18 11:00	male	41	D3	3	no	49672	none	none	no	none	coffee	2	no	electric	0
+D4.lyPMA	SMDS	daily dynamics	D	1.81	1.5	0.3	245	230	238	356250	PMA	5/1/18 12:40	male	41	D4	4	no	75640	none	none	no	none	none	2	no	electric	0
+D5.lyPMA	SMDS	daily dynamics	D	2.15	2.3	0.46	1252	1186	1219	2803700	PMA	5/1/18 13:30	male	41	D5	5	no	106515	none	none	yes	"chicke, tofu, vegetable wrap"	espresso	2	no	electric	0
+D6.lyPMA	SMDS	daily dynamics	D	1.84	1.9	0.38	899	890	895	1699550	PMA	5/1/18 16:45	male	41	D6	6	no	506283	none	none	no	none	coffee	2	no	electric	0
+D7.lyPMA	SMDS	daily dynamics	D	2.46	2.3	0.46	500	548	524	1205200	PMA	5/1/18 21:00	male	41	D7	7	no	592693	yes	none	no	none	red wine	2	no	electric	0
+D8.lyPMA	SMDS	daily dynamics	D	0.55	0.5	0.1	601	639	620	310000	PMA	5/1/18 21:30	male	41	D8	8	no	21082	none	none	yes	"carnitas, carrots, peas, pineapple, banana, blueberries, raspberries, siggi's strawberry rhubarb yogurt"	none	2	no	electric	0.016834536
+D9.lyPMA	SMDS	daily dynamics	D	2.85	3	0.6	470	480	475	1425000	PMA	5/1/18 21:40	male	41	D9	9	no	9843	none	none	no	none	none	2	no	electric	0
+E1.lyPMA	SMDS	daily dynamics	E	0.77	0.7	0.14	98018	87662	92840	64988000	PMA	5/1/18 8:10	male	70	E1	1	yes	904743	none	none	no	none	none	1	no	regular	0
+E2.lyPMA	SMDS	daily dynamics	E	1.48	1.5	0.3	3662	3421	3542	5312250	PMA	5/1/18 8:20	male	70	E2	2	yes	215388	none	none	no	none	none	1	no	regular	0
+E3.lyPMA	SMDS	daily dynamics	E	1.68	1.5	0.3	3982	3896	3939	5908500	PMA	5/1/18 10:38	male	70	E3	3	yes	342	none	none	no	none	coffee	1	no	regular	0
+E4.lyPMA	SMDS	daily dynamics	E	2.8	2.7	0.54	2506	2367	2437	6578550	PMA	5/1/18 15:50	male	70	E4	4	yes	17106	none	none	yes	"ikea veggie balls, salad apple pie"	none	1	no	regular	4.01E-05
+E5.lyPMA	SMDS	daily dynamics	E	3.64	3.6	0.72	9082	9014	9048	32572800	PMA	5/1/18 17:35	male	70	E5	5	yes	113000	none	none	no	none	none	1	no	regular	0
+E6.lyPMA	SMDS	daily dynamics	E	5.19	5.3	1.06	3014	2867	2941	15584650	PMA	5/1/18 19:15	male	70	E6	6	yes	17529	none	none	no	none	none	1	no	regular	0
+E7.lyPMA	SMDS	daily dynamics	E	4.18	4	0.8	3112	2586	2849	11396000	PMA	5/1/18 20:30	male	70	E7	7	yes	14312	none	none	yes	"broccoli tofu pie, salad, guacamole, corn chips, ice cream"	juice	1	no	regular	0
+E8.lyPMA	SMDS	daily dynamics	E	0.73	0.9	0.18	7711	6993	7352	6616800	PMA	5/1/18 22:00	male	70	E8	8	yes	29871	none	none	no	none	none	1	no	regular	0
+E9.lyPMA	SMDS	daily dynamics	E	6.9	6.9	1.38	21	30	26	175950	PMA	5/1/18 23:10	male	70	E9	9	yes	3843	none	none	no	none	none	1	no	regular	0.000336594
+F1.lyPMA	SMDS	daily dynamics	F	1.24	1.1	0.22	44238	40318	42278	46505800	PMA	5/1/18 7:47	female	62	F1	1	no	2399938	none	none	no	none	none	1	yes	regular	0
+F2.lyPMA	SMDS	daily dynamics	F	1.7	1.5	0.3	2784	2842	2813	4219500	PMA	5/1/18 8:09	female	62	F2	2	no	307879	none	none	no	none	none	1	yes	regular	0
+F3.lyPMA	SMDS	daily dynamics	F	1.28	1.1	0.22	2074	1948	2011	2212100	PMA	5/1/18 10:38	female	62	F3	3	no	119529	none	none	yes	banana	none	1	yes	regular	0
+F4.lyPMA	SMDS	daily dynamics	F	1.95	1.7	0.34	2001	1987	1994	3389800	PMA	5/1/18 13:12	female	62	F4	4	no	276398	none	excercise 1.5 hr	yes	"banana, apple"	water	1	yes	regular	0
+F5.lyPMA	SMDS	daily dynamics	F	0.7	0.5	0.1	8282	8648	8465	4232500	PMA	5/1/18 15:41	female	62	F5	5	no	115382	none	none	yes	vegan lime thai soup	none	1	yes	regular	0.000449102
+F6.lyPMA	SMDS	daily dynamics	F	0.68	0.5	0.1	25213	24733	24973	12486500	PMA	5/1/18 19:08	female	62	F6	6	no	116685	none	none	yes	smoked almonds	water	1	yes	regular	0
+F7.lyPMA	SMDS	daily dynamics	F	1.13	1	0.2	4091	3835	3963	3963000	PMA	5/1/18 20:36	female	62	F7	7	no	66936	none	none	yes	"broccoli tofu pie, salad, guacamole, corn chips, ice cream"	seltzer water	1	yes	regular	0
+F8.lyPMA	SMDS	daily dynamics	F	0.6	0.4	0.08	12096	12026	12061	4824400	PMA	5/1/18 22:02	female	62	F8	8	no	312336	none	none	no	none	none	1	yes	regular	0
+F9.lyPMA	SMDS	daily dynamics	F	0.28	0.1	0.02	4153	4184	4169	416850	PMA	5/1/18 22:41	female	62	F9	9	no	16450	none	none	no	none	none	1	yes	regular	0
+G1.lyPMA	SMDS	daily dynamics	G	0.43	0.4	0.08	8657	8540	8599	3439400	PMA	5/2/18 7:10	male	24	G1	1	no	210185	none	none	no	none	none	1.5	no	regular	0
+G2.lyPMA	SMDS	daily dynamics	G	0.86	0.6	0.12	2285	2164	2225	1334700	PMA	5/2/18 7:50	male	24	G2	2	no	55937	none	none	no	none	none	1.5	no	regular	0
+G3.lyPMA	SMDS	daily dynamics	G	2.17	2.3	0.46	630	633	632	1452450	PMA	5/2/18 11:00	male	24	G3	3	no	23971	none	"brushed teeth again after breakfast, then had coffee"	yes	"bacon, eggs, whole grain bread"	"milk, coffee"	1.5	no	regular	0
+G4.lyPMA	SMDS	daily dynamics	G	3.37	2.1	0.42	3303	3382	3343	7019250	PMA	5/2/18 13:30	male	24	G4	4	no	50902	none	none	yes	"protein bar, greek yogurt"	none	1.5	no	regular	0.000194062
+G5.lyPMA	SMDS	daily dynamics	G	1.49	1.4	0.28	4391	4619	4505	6307000	PMA	5/2/18 15:20	male	24	G5	5	no	110224	none	none	no	none	none	1.5	no	regular	0
+G6.lyPMA	SMDS	daily dynamics	G	1.67	1.6	0.32	1859	1849	1854	2966400	PMA	5/2/18 17:20	male	24	G6	6	no	22747	none	none	yes	beef tamales	none	1.5	no	regular	0
+G7.lyPMA	SMDS	daily dynamics	G	1.37	1.6	0.32	15974	21002	18488	29580800	PMA	5/2/18 23:27	male	24	G7	7	no	971266	yes	none	yes	"cactus, zucchini, mushroom tacos, beef tacos"	beer and whiskey	1.5	no	regular	0
+G8.lyPMA	SMDS	daily dynamics	G	0.68	0.5	0.1	16159	16170	16165	8082250	PMA	5/2/18 0:20	male	24	G8	8	no	101432	none	none	no	none	none	1.5	no	regular	0
+H1.lyPMA	SMDS	daily dynamics	H	1.67	1.8	0.36	29632	32988	31310	56358000	PMA	5/7/18 6:40	male	50	H1	1	no	2032332	none	none	no	none	none	4	no	regular	0
+H2.lyPMA	SMDS	daily dynamics	H	1.31	1.3	0.26	624	679	652	846950	PMA	5/7/18 7:05	male	50	H2	2	no	74786	none	none	no	none	none	4	no	regular	0
+H3.lyPMA	SMDS	daily dynamics	H	2.57	2.5	0.5	697	678	688	1718750	PMA	5/7/18 9:30	male	50	H3	3	no	45343	none	none	no	none	coffee	4	no	regular	0
+H4.lyPMA	SMDS	daily dynamics	H	3.45	3.4	0.68	3092	3065	3079	10466900	PMA	5/7/18 11:30	male	50	H4	4	no	433503	none	none	yes	handful of nuts	none	4	no	regular	0
+H5.lyPMA	SMDS	daily dynamics	H	3.38	3.1	0.62	851	897	874	2709400	PMA	5/7/18 14:20	male	50	H5	5	no	159137	none	none	yes	"veggies, cake"	coffee	4	no	regular	0
+H6.lyPMA	SMDS	daily dynamics	H	3.37	3.2	0.64	1630	1713	1672	5348800	PMA	5/7/18 16:20	male	50	H6	6	no	626370	none	none	no	none	none	4	no	regular	0
+H7.lyPMA	SMDS	daily dynamics	H	5.54	5.3	1.06	1527	1621	1574	8342200	PMA	5/7/18 18:20	male	50	H7	7	no	536284	none	none	yes	apples	none	4	no	regular	0
+H8.lyPMA	SMDS	daily dynamics	H	5.42	5.3	1.06	4757	4707	4732	25079600	PMA	5/7/18 20:20	male	50	H8	8	no	330164	none	none	yes	pizza	none	4	no	regular	0
+H9.lyPMA	SMDS	daily dynamics	H	3.1	3	0.6	3235	3371	3303	9909000	PMA	5/7/18 22:00	male	50	H9	9	no	455141	none	none	no	none	none	4	no	regular	0
+I1.lyPMA	SMDS	daily dynamics	I	0.19	0.1	0.02	104183	95601	99892	9989200	PMA	5/10/18 6:32	female	31	I1	1	no	67429	none	none	no	none	none	1.5	no	regular	0
+I2.lyPMA	SMDS	daily dynamics	I	0.52	0.5	0.1	7494	7433	7464	3731750	PMA	5/10/18 6:50	female	31	I2	2	no	582	none	none	no	none	none	1.5	no	regular	0
+I3.lyPMA	SMDS	daily dynamics	I	1.73	1.7	0.34	521	564	543	922250	PMA	5/10/18 9:45	female	31	I3	3	no		none	none	yes	zucchini chocolate muffin	"matcha tea, coffee"	1.5	no	regular	0
+I4.lyPMA	SMDS	daily dynamics	I	1.35	1.3	0.26	1900	1874	1887	2453100	PMA	5/10/18 12:00	female	31	I4	4	no	673	none	none	no	none	coffee	1.5	no	regular	0
+I5.lyPMA	SMDS	daily dynamics	I	2.03	1.9	0.38	1071	1056	1064	2020650	PMA	5/10/18 15:04	female	31	I5	5	no	212	none	none	yes	"tofu, rice, zucchini, peanut sauce"	taro boba tea	1.5	no	regular	0
+I6.lyPMA	SMDS	daily dynamics	I	1.88	1.9	0.38	1673	1692	1683	3196750	PMA	5/10/18 17:48	female	31	I6	6	no	1511	none	none	no	none	none	1.5	no	regular	0
+I7.lyPMA	SMDS	daily dynamics	I	0.94	1	0.2	4157	4035	4096	4096000	PMA	5/10/18 19:40	female	31	I7	7	no	530	yes	none	no	none	whiskey	1.5	no	regular	0
+I8.lyPMA	SMDS	daily dynamics	I	1.19	1.2	0.24	3117	2827	2972	3566400	PMA	5/10/18 22:55	female	31	I8	8	no	26113	yes	none	yes	"chips, hummus, pickles, olives"	whiskey	1.5	no	regular	0
+I9.lyPMA	SMDS	daily dynamics	I	1.34	1.4	0.28	1037	1051	1044	1461600	PMA	5/10/18 23:09	female	31	I9	9	no		none	none	no	none	water	1.5	no	regular	0
+J1.lyPMA	SMDS	daily dynamics	J	1.16	1.1	0.22	16630	16513	16572	18228650	PMA	5/10/18 6:09	female	22	J1	1	yes	534844	none	none	no	none	none	2.25	yes	electric	0
+J2.lyPMA	SMDS	daily dynamics	J	3.58	3.6	0.72	2042	2414	2228	8020800	PMA	5/10/18 7:18	female	22	J2	2	yes	27708	none	ate food then brushed teeth	yes	"bagel, egg, cream cheese, avocado"	water	2.25	yes	electric	0.002651348
+J3.lyPMA	SMDS	daily dynamics	J	4.68	4.6	0.92	858	859	859	3949100	PMA	5/10/18 10:10	female	22	J3	3	yes	6465	none	none	no	none	"vanilla cappuccino, water"	2.25	yes	electric	0
+J4.lyPMA	SMDS	daily dynamics	J	5.64	5.6	1.12	447	423	435	2436000	PMA	5/10/18 13:30	female	22	J4	4	yes	3440	none	none	yes	"peanut butter chocolate lara bar, quinoa salad, gum"	none	2.25	yes	electric	0
+J5.lyPMA	SMDS	daily dynamics	J	5.17	5.2	1.04	246	249	248	1287000	PMA	5/10/18 15:10	female	22	J5	5	yes	3807	none	none	no	none	water	2.25	yes	electric	0
+J6.lyPMA	SMDS	daily dynamics	J	5.48	5.4	1.08	2072	2120	2096	11318400	PMA	5/10/18 17:45	female	22	J6	6	yes	135	none	none	yes	"quesadilla, baby carrots, hummus, gum"	none	2.25	yes	electric	0
+J7.lyPMA	SMDS	daily dynamics	J	5.33	5.3	1.06	3334	3337	3336	17678150	PMA	5/10/18 22:00	female	22	J7	7	yes	9955	none	none	yes	"brussel sprouts, chicken, corn, gum"	none	2.25	yes	electric	0
+J8.lyPMA	SMDS	daily dynamics	J	4.48	4.5	0.9	567	547	557	2506500	PMA	5/10/18 23:00	female	22	J8	8	yes	1858	none	none	no	none	water	2.25	yes	electric	0
+J9.lyPMA	SMDS	daily dynamics	J	4.47	4.5	0.9	726	788	757	3406500	PMA	5/10/18 23:30	female	22	J9	9	yes	36923	none	none	no	none	none	2.25	yes	electric	0
+A1.raw	SMDS	daily dynamics	A	1.28	1.1	0.22	27508	22654	25081	27589100	raw	5/1/18 9:15	male	26	A1	1	yes	25843585	none	none	no	none	none	3	yes	electric	0
+A2.raw	SMDS	daily dynamics	A	1.41	1.1	0.22	11753	9189	10471	11518100	raw	5/1/18 9:40	male	26	A2	2	yes	487646	none	none	no	none	none	3	yes	electric	0
+A3.raw	SMDS	daily dynamics	A	2.1	1.9	0.38	2197	2276	2237	4249350	raw	5/1/18 12:25	male	26	A3	3	yes	4418154	none	none	yes	donut	none	3	yes	electric	0
+A4.raw	SMDS	daily dynamics	A	1.62	1.4	0.28	5274	5257	5266	7371700	raw	5/1/18 13:40	male	26	A4	4	yes	108328	none	none	yes	burrito and salsa	none	3	yes	electric	0.002014234
+A5.raw	SMDS	daily dynamics	A	1.64	1.2	0.24	6883	6100	6492	7789800	raw	5/1/18 16:42	male	26	A5	5	yes	1303487	none	none	no	none	none	3	yes	electric	0
+A6.raw	SMDS	daily dynamics	A	1.7	1.4	0.28	4869	4466	4668	6534500	raw	5/1/18 18:47	male	26	A6	6	yes	32997650	none	none	no	none	none	3	yes	electric	0
+A7.raw	SMDS	daily dynamics	A	2.13	1.9	0.38	7295	6776	7036	13367450	raw	5/1/18 21:00	male	26	A7	7	yes	1474073	none	none	yes	"rice, beans, eggs, tomatoes"	coke	3	yes	electric	0
+A8.raw	SMDS	daily dynamics	A	1.79	1.5	0.3	3961	3304	3633	5448750	raw	5/1/18 23:15	male	26	A8	8	yes	1421148	none	none	no	none	none	3	yes	electric	0
+A9.raw	SMDS	daily dynamics	A	2.85	2.7	0.54	1482	1536	1509	4074300	raw	5/1/18 23:35	male	26	A9	9	yes	306430	none	none	no	none	none	3	yes	electric	0
+B2.raw	SMDS	daily dynamics	B	1.4	1.4	0.28	3498	3155	3327	4657100	raw	5/2/18 7:40	female	6	B2	2	no	653754	none	none	no	none	none	3	yes	regular	0
+B3.raw	SMDS	daily dynamics	B	4.57	4.5	0.9	3233	2783	3008	13536000	raw	5/2/18 10:10	female	6	B3	3	no	354868	none	none	yes	"cereal, milk, berries"	none	3	yes	regular	0
+B4.raw	SMDS	daily dynamics	B	2.49	2.3	0.46	5060	4923	4992	11480450	raw	5/2/18 11:55	female	6	B4	4	no	505211	none	cold medicine	no	none	none	3	yes	regular	0
+B5.raw	SMDS	daily dynamics	B	-0.04	0.1	0.02	121712	150213	135963	13596250	raw	5/2/18 13:05	female	6	B5	5	no	973686	none	none	yes	"chicken soup, orange"	none	3	yes	regular	0.001099456
+B6.raw	SMDS	daily dynamics	B	4.31	4.1	0.82	35206	36515	35861	147028050	raw	5/2/18 15:45	female	6	B6	6	no	493070	none	cold medicine	yes	banana	none	3	yes	regular	0
+B7.raw	SMDS	daily dynamics	B	2.77	2.6	0.52	2827	2723	2775	7215000	raw	5/2/18 19:35	female	6	B7	7	no	190438	none	none	yes	"pineapple, chocolate chips, sprinkles, apple, peach"	none	3	yes	regular	0.00241838
+B8.raw	SMDS	daily dynamics	B	0.46	0.4	0.08	2493	2387	2440	976000	raw	5/2/18 21:30	female	6	B8	8	no	20161	none	none	yes	"mac&cheese, peas, carnitas, carrots, guacamole, flour tortilla"	milk	3	yes	regular	0.078350644
+B9.raw	SMDS	daily dynamics	B	1.34	1.3	0.26	1313	1256	1285	1669850	raw	5/2/18 21:40	female	6	B9	9	no	148392	none	none	no	none	none	3	yes	regular	0.000926681
+C1.raw	SMDS	daily dynamics	C	4.54	4.4	0.88	1783	1750	1767	7772600	raw	5/2/18 9:00	female	32	C1	1	no	25228609	none	none	no	none	none	5	yes	regular	0
+C2.raw	SMDS	daily dynamics	C	2.98	3.5	0.7	557	561	559	1956500	raw	5/2/18 10:10	female	32	C2	2	no	105373	none	breakfast first then brushed teeth	yes	breakfast	none	5	yes	regular	0.000139059
+C3.raw	SMDS	daily dynamics	C	5	4.8	0.96	480	484	482	2313600	raw	5/2/18 11:30	female	32	C3	3	no	742868	none	none	no	none	tea	5	yes	regular	9.49E-05
+C4.raw	SMDS	daily dynamics	C	5.41	5	1	201	204	203	1012500	raw	5/2/18 14:30	female	32	C4	4	no	114785	none	none	yes	lunch	water	5	yes	regular	0.028260399
+C5.raw	SMDS	daily dynamics	C	4.32	4.2	0.84	86	87	87	363300	raw	5/2/18 16:30	female	32	C5	5	no	120669	none	none	yes	strawberries	water	5	yes	regular	0.00231569
+C6.raw	SMDS	daily dynamics	C	3.09	3	0.6	3219	2758	2989	8965500	raw	5/2/18 18:50	female	32	C6	6	no	4109953	none	1.5hr excercies	no	none	none	5	yes	regular	0.000142458
+C7.raw	SMDS	daily dynamics	C	3.41	3.4	0.68	901	902	902	3065100	raw	5/2/18 23:30	female	32	C7	7	no	98063	none	none	yes	dinner and pop corn	none	5	yes	regular	0
+C8.raw	SMDS	daily dynamics	C	3.13	3	0.6	424	457	441	1321500	raw	5/2/18 0:05	female	32	C8	8	no	257640	none	none	no	none	none	5	yes	regular	0
+C9.raw	SMDS	daily dynamics	C	2.52	2.5	0.5	411	392	402	1003750	raw	5/2/18 8:00	female	32	C9	9	no	633868	none	taken next morning!	no	none	none	5	yes	regular	0
+D1.raw	SMDS	daily dynamics	D	2.11	2	0.4	6021	6092	6057	12113000	raw	5/2/18 7:20	male	41	D1	1	no	5366649	none	none	no	none	none	2	no	electric	0
+D2.raw	SMDS	daily dynamics	D	2.96	2.6	0.52					raw	5/1/18 7:40	male	41	D2	2	no	974443	none	none	no	none	none	2	no	electric	0
+D3.raw	SMDS	daily dynamics	D	3.72	2.5	0.5	1917	1747	1832	4580000	raw	5/1/18 11:00	male	41	D3	3	no	267185	none	none	no	none	coffee	2	no	electric	0
+D4.raw	SMDS	daily dynamics	D	1.81	1.5	0.3	579	588	584	875250	raw	5/1/18 12:40	male	41	D4	4	no	119097	none	none	no	none	none	2	no	electric	0
+D5.raw	SMDS	daily dynamics	D	2.15	2.3	0.46	2125	2069	2097	4823100	raw	5/1/18 13:30	male	41	D5	5	no	86564	none	none	yes	"chicke, tofu, vegetable wrap"	espresso	2	no	electric	0.001702786
+D6.raw	SMDS	daily dynamics	D	1.84	1.9	0.38	3409	3319	3364	6391600	raw	5/1/18 16:45	male	41	D6	6	no	1213717	none	none	no	none	coffee	2	no	electric	0
+D7.raw	SMDS	daily dynamics	D	2.46	2.3	0.46	1330	1317	1324	3044050	raw	5/1/18 21:00	male	41	D7	7	no	2975709	yes	none	no	none	red wine	2	no	electric	0
+D8.raw	SMDS	daily dynamics	D	0.55	0.5	0.1	1312	1131	1222	610750	raw	5/1/18 21:30	male	41	D8	8	no	14073	none	none	yes	"carnitas, carrots, peas, pineapple, banana, blueberries, raspberries, siggi's strawberry rhubarb yogurt"	none	2	no	electric	0.003155751
+D9.raw	SMDS	daily dynamics	D	2.85	3	0.6	1950	2046	1998	5994000	raw	5/1/18 21:40	male	41	D9	9	no	62422	none	none	no	none	none	2	no	electric	9.81E-05
+E1.raw	SMDS	daily dynamics	E	0.77	0.7	0.14	100556	93037	96797	67757550	raw	5/1/18 8:10	male	70	E1	1	yes	1633947	none	none	no	none	none	1	no	regular	0
+E2.raw	SMDS	daily dynamics	E	1.48	1.5	0.3	10080	10061	10071	15105750	raw	5/1/18 8:20	male	70	E2	2	yes	307953	none	none	no	none	none	1	no	regular	0
+E3.raw	SMDS	daily dynamics	E	1.68	1.5	0.3	4769	4909	4839	7258500	raw	5/1/18 10:38	male	70	E3	3	yes	36544	none	none	no	none	coffee	1	no	regular	0
+E4.raw	SMDS	daily dynamics	E	2.8	2.7	0.54	2535	2569	2552	6890400	raw	5/1/18 15:50	male	70	E4	4	yes	63203	none	none	yes	"ikea veggie balls, salad apple pie"	none	1	no	regular	0.000961881
+E5.raw	SMDS	daily dynamics	E	3.64	3.6	0.72	10372	9036	9704	34934400	raw	5/1/18 17:35	male	70	E5	5	yes	213038	none	none	no	none	none	1	no	regular	4.52E-05
+E6.raw	SMDS	daily dynamics	E	5.19	5.3	1.06	3349	3263	3306	17521800	raw	5/1/18 19:15	male	70	E6	6	yes	64339	none	none	no	none	none	1	no	regular	0.000113772
+E7.raw	SMDS	daily dynamics	E	4.18	4	0.8	3954	3888	3921	15684000	raw	5/1/18 20:30	male	70	E7	7	yes	56091	none	none	yes	"broccoli tofu pie, salad, guacamole, corn chips, ice cream"	juice	1	no	regular	0.001163467
+E8.raw	SMDS	daily dynamics	E	0.73	0.9	0.18	7553	7309	7431	6687900	raw	5/1/18 22:00	male	70	E8	8	yes	56874	none	none	no	none	none	1	no	regular	0.000547876
+E9.raw	SMDS	daily dynamics	E	6.9	6.9	1.38	204	216	210	1449000	raw	5/1/18 23:10	male	70	E9	9	yes	24065	none	none	no	none	none	1	no	regular	6.56E-05
+F1.raw	SMDS	daily dynamics	F	1.24	1.1	0.22	60411	83778	72095	79303950	raw	5/1/18 7:47	female	62	F1	1	no	3136293	none	none	no	none	none	1	yes	regular	0
+F2.raw	SMDS	daily dynamics	F	1.7	1.5	0.3	30304	12304	21304	31956000	raw	5/1/18 8:09	female	62	F2	2	no	332745	none	none	no	none	none	1	yes	regular	0
+F3.raw	SMDS	daily dynamics	F	1.28	1.1	0.22	3604	3715	3660	4025450	raw	5/1/18 10:38	female	62	F3	3	no	101934	none	none	yes	banana	none	1	yes	regular	0.000166504
+F4.raw	SMDS	daily dynamics	F	1.95	1.7	0.34	2706	3166	2936	4991200	raw	5/1/18 13:12	female	62	F4	4	no	224298	none	excercise 1.5 hr	yes	"banana, apple"	water	1	yes	regular	0.004448313
+F5.raw	SMDS	daily dynamics	F	0.7	0.5	0.1	15083	15440	15262	7630750	raw	5/1/18 15:41	female	62	F5	5	no	92822	none	none	yes	vegan lime thai soup	none	1	yes	regular	0.000973863
+F6.raw	SMDS	daily dynamics	F	0.68	0.5	0.1	35307	38436	36872	18435750	raw	5/1/18 19:08	female	62	F6	6	no	192483	none	none	yes	smoked almonds	water	1	yes	regular	5.30E-05
+F7.raw	SMDS	daily dynamics	F	1.13	1	0.2	9778	10606	10192	10192000	raw	5/1/18 20:36	female	62	F7	7	no	96984	none	none	yes	"broccoli tofu pie, salad, guacamole, corn chips, ice cream"	seltzer water	1	yes	regular	0.006704856
+F8.raw	SMDS	daily dynamics	F	0.6	0.4	0.08	19472	20769	20121	8048200	raw	5/1/18 22:02	female	62	F8	8	no	213893	none	none	no	none	none	1	yes	regular	8.13E-05
+F9.raw	SMDS	daily dynamics	F	0.28	0.1	0.02	12145	11404	11775	1177450	raw	5/1/18 22:41	female	62	F9	9	no	30695	none	none	no	none	none	1	yes	regular	0
+G1.raw	SMDS	daily dynamics	G	0.43	0.4	0.08	18149	17787	17968	7187200	raw	5/1/18 7:10	male	24	G1	1	no	89350	none	none	no	none	none	1.5	no	regular	0
+G2.raw	SMDS	daily dynamics	G	0.86	0.6	0.12	7124	6570	6847	4108200	raw	5/2/18 7:50	male	24	G2	2	no	116582	none	none	no	none	none	1.5	no	regular	0
+G3.raw	SMDS	daily dynamics	G	2.17	2.3	0.46	1039	1164	1102	2533450	raw	5/2/18 11:00	male	24	G3	3	no	11661	none	"brushed teeth again after breakfast, then had coffee"	yes	"bacon, eggs, whole grain bread"	"milk, coffee"	1.5	no	regular	0
+G4.raw	SMDS	daily dynamics	G	3.37	2.1	0.42	4861	4727	4794	10067400	raw	5/2/18 13:30	male	24	G4	4	no	30074	none	none	yes	"protein bar, greek yogurt"	none	1.5	no	regular	0.016065466
+G5.raw	SMDS	daily dynamics	G	1.49	1.4	0.28	5947	6466	6207	8689100	raw	5/2/18 15:20	male	24	G5	5	no	36640	none	none	no	none	none	1.5	no	regular	0.000240732
+G6.raw	SMDS	daily dynamics	G	1.67	1.6	0.32	2765	2963	2864	4582400	raw	5/2/18 17:20	male	24	G6	6	no	19939	none	none	yes	beef tamales	none	1.5	no	regular	0
+G7.raw	SMDS	daily dynamics	G	1.37	1.6	0.32	17890	20204	19047	30475200	raw	5/2/18 23:27	male	24	G7	7	no	780313	yes	none	yes	"cactus, zucchini, mushroom tacos, beef tacos"	beer and whiskey	1.5	no	regular	0
+G8.raw	SMDS	daily dynamics	G	0.68	0.5	0.1	79876	72757	76317	38158250	raw	5/2/18 0:20	male	24	G8	8	no	208152	none	none	no	none	none	1.5	no	regular	5.04E-05
+H1.raw	SMDS	daily dynamics	H	1.67	1.8	0.36	54305	55868	55087	99155700	raw	5/2/18 6:40	male	50	H1	1	no	2405674	none	none	no	none	none	4	no	regular	0
+H2.raw	SMDS	daily dynamics	H	1.31	1.3	0.26	1389	1241	1315	1709500	raw	5/7/18 7:05	male	50	H2	2	no	112605	none	none	no	none	none	4	no	regular	0
+H3.raw	SMDS	daily dynamics	H	2.57	2.5	0.5	841	847	844	2110000	raw	5/7/18 9:30	male	50	H3	3	no	90895	none	none	no	none	coffee	4	no	regular	0.001988143
+H4.raw	SMDS	daily dynamics	H	3.45	3.4	0.68	3535	3834	3685	12527300	raw	5/7/18 11:30	male	50	H4	4	no	141185	none	none	yes	handful of nuts	none	4	no	regular	0.000529711
+H5.raw	SMDS	daily dynamics	H	3.38	3.1	0.62	1397	1373	1385	4293500	raw	5/7/18 14:20	male	50	H5	5	no	105313	none	none	yes	"veggies, cake"	coffee	4	no	regular	0.000475447
+H6.raw	SMDS	daily dynamics	H	3.37	3.2	0.64	1522	1679	1601	5121600	raw	5/7/18 16:20	male	50	H6	6	no	830944	none	none	no	none	none	4	no	regular	0
+H7.raw	SMDS	daily dynamics	H	5.54	5.3	1.06	1828	1897	1863	9871250	raw	5/7/18 18:20	male	50	H7	7	no	922461	none	none	yes	apples	none	4	no	regular	0.000520771
+H8.raw	SMDS	daily dynamics	H	5.42	5.3	1.06	5933	6441	6187	32791100	raw	5/7/18 20:20	male	50	H8	8	no	294122	none	none	yes	pizza	none	4	no	regular	0.000751664
+H9.raw	SMDS	daily dynamics	H	3.1	3	0.6	3620	4100	3860	11580000	raw	5/7/18 22:00	male	50	H9	9	no	560036	none	none	no	none	none	4	no	regular	0.000121725
+I1.raw	SMDS	daily dynamics	I	0.19	0.1	0.02	143177	152429	147803	14780300	raw	5/7/18 6:32	female	31	I1	1	no	79748	none	none	no	none	none	1.5	no	regular	0
+I2.raw	SMDS	daily dynamics	I	0.52	0.5	0.1	10740	10226	10483	5241500	raw	5/10/18 6:50	female	31	I2	2	no	13454	none	none	no	none	none	1.5	no	regular	0
+I3.raw	SMDS	daily dynamics	I	1.73	1.7	0.34	761	769	765	1300500	raw	5/10/18 9:45	female	31	I3	3	no	2775	none	none	yes	zucchini chocolate muffin	"matcha tea, coffee"	1.5	no	regular	0
+I4.raw	SMDS	daily dynamics	I	1.35	1.3	0.26	2358	2330	2344	3047200	raw	5/10/18 12:00	female	31	I4	4	no	7384	none	none	no	none	coffee	1.5	no	regular	0
+I5.raw	SMDS	daily dynamics	I	2.03	1.9	0.38	1425	1436	1431	2717950	raw	5/10/18 15:04	female	31	I5	5	no	11420	none	none	yes	"tofu, rice, zucchini, peanut sauce"	taro boba tea	1.5	no	regular	0
+I6.raw	SMDS	daily dynamics	I	1.88	1.9	0.38	2249	2138	2194	4167650	raw	5/10/18 17:48	female	31	I6	6	no	11299	none	none	no	none	none	1.5	no	regular	0
+I7.raw	SMDS	daily dynamics	I	0.94	1	0.2	4470	4348	4409	4409000	raw	5/10/18 19:40	female	31	I7	7	no	22039	yes	none	no	none	whiskey	1.5	no	regular	0
+I8.raw	SMDS	daily dynamics	I	1.19	1.2	0.24	3639	3477	3558	4269600	raw	5/10/18 22:55	female	31	I8	8	no	11155	yes	none	yes	"chips, hummus, pickles, olives"	whiskey	1.5	no	regular	0.000281551
+I9.raw	SMDS	daily dynamics	I	1.34	1.4	0.28	2372	2424	2398	3357200	raw	5/10/18 23:09	female	31	I9	9	no	2195	none	none	no	none	water	1.5	no	regular	0
+J1.raw	SMDS	daily dynamics	J	1.16	1.1	0.22	23758	25245	24502	26951650	raw	5/10/18 6:09	female	22	J1	1	yes	1244801	none	none	no	none	none	2.25	yes	electric	0
+J2.raw	SMDS	daily dynamics	J	3.58	3.6	0.72	2501	2746	2624	9444600	raw	5/10/18 7:18	female	22	J2	2	yes	305641	none	ate food then brushed teeth	yes	"bagel, egg, cream cheese, avocado"	water	2.25	yes	electric	0.001834354
+J3.raw	SMDS	daily dynamics	J	4.68	4.6	0.92	934	970	952	4379200	raw	5/10/18 10:10	female	22	J3	3	yes	63349	none	none	no	none	"vanilla cappuccino, water"	2.25	yes	electric	0
+J4.raw	SMDS	daily dynamics	J	5.64	5.6	1.12	501	501	501	2805600	raw	5/10/18 13:30	female	22	J4	4	yes	80437	none	none	yes	"peanut butter chocolate lara bar, quinoa salad, gum"	none	2.25	yes	electric	0.000436946
+J5.raw	SMDS	daily dynamics	J	5.17	5.2	1.04	396	396	396	2059200	raw	5/10/18 15:10	female	22	J5	5	yes	56360	none	none	no	none	water	2.25	yes	electric	0.000109437
+J6.raw	SMDS	daily dynamics	J	5.48	5.4	1.08	3147	2924	3036	16391700	raw	5/10/18 17:45	female	22	J6	6	yes	34286	none	none	yes	"quesadilla, baby carrots, hummus, gum"	none	2.25	yes	electric	0.001356733
+J7.raw	SMDS	daily dynamics	J	5.33	5.3	1.06	5754	5760	5757	30512100	raw	5/10/18 22:00	female	22	J7	7	yes	217197	none	none	yes	"brussel sprouts, chicken, corn, gum"	none	2.25	yes	electric	0.003457026
+J8.raw	SMDS	daily dynamics	J	4.48	4.5	0.9	978	1000	989	4450500	raw	5/10/18 23:00	female	22	J8	8	yes	150542	none	none	no	none	water	2.25	yes	electric	0.000963471
+J9.raw	SMDS	daily dynamics	J	4.47	4.5	0.9	2041	2048	2045	9200250	raw	5/10/18 23:30	female	22	J9	9	yes	300487	none	none	no	none	none	2.25	yes	electric	7.52E-05
